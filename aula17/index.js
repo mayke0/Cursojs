@@ -10,6 +10,9 @@ const raiz = function(n){
     return n ** 0.5;
 }
 
+const raiz1 = n => n ** 0.5;
+
+console.log(raiz1(9));
 console.log(raiz(9));
 console.log(raiz(25));
 console.log(raiz(16));

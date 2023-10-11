@@ -25,8 +25,8 @@
 // let umaString = "O rato roeu a roupa do rei de roma."
 // console.log(umaString.length)
 
-// let umaString = "O rato roeu a roupa do rei de roma."
-// console.log(umaString.slice(2, 6))
+let umaString = [" 345", "3433", "34342", "346", "347", "348" ]
+console.log(umaString.length)
 // console.log(umaString.slice(-5))
 // console.log(umaString.slice(-5, umaString.length -1))
 // console.log(umaString.slice(-5, -1))
